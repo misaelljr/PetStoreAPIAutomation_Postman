@@ -1,6 +1,6 @@
 <h1 align="center"> Testes automatizados na API PetStore com Postman </h1>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Code Review](http://img.shields.io/static/v1?label=STATUS&message=EM%20Code%20Review&color=GREEN&style=for-the-badge)
 
 <p align="left">🚀 Este repositório contém uma collection exportada via Postman com um projeto de automação de testes da <a href="https://github.com/swagger-api/swagger-petstore">API PetStore</a>
 
