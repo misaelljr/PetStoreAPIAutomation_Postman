@@ -12,7 +12,7 @@
 - [x] Uso de uma variação da heurística <a href="https://maximilianoalves.medium.com/vader-heuristica-para-teste-de-api-na-pratica-fcf78c6acec">VADER (Verbos, Authorization, Data, Errors e Responsiveness)</a> para escrita dos testes de API
 - [x] Escrita de casos de teste em Javascript para serem executados no Postman
 - [x] Geração de um relatório dos resultdos do teste usando <a href="https://learning.postman.com/docs/running-collections/using-newman-cli/installing-running-newman/">Newman</a>
-- [] Integração direta com o Git
+- [ ] Integração direta com o Git
 
 ### Pré-requisitos
 
