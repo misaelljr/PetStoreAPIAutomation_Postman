@@ -20,10 +20,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://scholar.google.com/citations?user=kwbs4ksAAAAJ&hl=en">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/11947429?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Misael Jr</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
+ <sub><b>Misael Jr</b></sub></a> <a href="https://scholar.google.com/citations?user=kwbs4ksAAAAJ&hl=en" title="Rocketseat">🚀</a>
 
 
 Feito com ❤️ por Misael Jr 👋🏽 Entre em contato!
