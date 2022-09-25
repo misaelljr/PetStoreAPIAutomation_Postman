@@ -1,6 +1,6 @@
 <h1 align="center"> Testes automatizados na API PetStore com Postman </h1>
 
-![Badge em Code Review](http://img.shields.io/static/v1?label=STATUS&message=EM%20Code%20Review&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <p align="left">🚀 Este repositório contém uma collection exportada via Postman com um projeto de automação de testes da <a href="https://github.com/swagger-api/swagger-petstore">API PetStore</a>
 
@@ -12,6 +12,7 @@
 - [x] Uso de uma variação da heurística <a href="https://maximilianoalves.medium.com/vader-heuristica-para-teste-de-api-na-pratica-fcf78c6acec">VADER (Verbos, Authorization, Data, Errors e Responsiveness)</a> para escrita dos testes de API
 - [x] Escrita de casos de teste em Javascript para serem executados no Postman
 - [x] Geração de um relatório dos resultdos do teste usando <a href="https://learning.postman.com/docs/running-collections/using-newman-cli/installing-running-newman/">Newman</a>
+- [] Integração direta com o Git
 
 ### Pré-requisitos
 
