@@ -19,8 +19,11 @@
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Postman](https://www.postman.com/downloads/) e [Newman](https://www.npmjs.com/package/newman)
 
 ### Gere um report dos testes via Newman
-
+ 
+```bash
+# Executar comando no terminal
 $ newman run Swagger\ Petstore.postman_collection.json
+```
 
 ### Autor
 ---
